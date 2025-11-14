@@ -2,6 +2,9 @@
 
 An Obsidian plugin that allows you to resize table columns by dragging, making your tables more readable and visually appealing.
 
+**Author**: bubble (wzihua@hotmail.com)
+**Version**: 1.0.0
+
 ## ✨ Features
 
 - **Drag to Resize**: Click and drag table column borders to adjust width
@@ -13,14 +16,17 @@ An Obsidian plugin that allows you to resize table columns by dragging, making y
 
 ## 📸 Screenshots
 
-### Before - Default Table
-![Default Table](https://via.placeholder.com/600x300/f5f5f5/666666?text=Default+Table+Layout)
+### Before - Default Table (Plugin Disabled)
+![Default Table](https://github.com/bubble-wu/obsidian-table-column-resizer/assets/default-table.png)
+*Standard markdown table with default column widths*
 
-### During - Dragging Column
-![Dragging Column](https://via.placeholder.com/600x300/e3f2fd/1976d2?text=Dragging+Column+Border)
+### During - Hover Effect (Plugin Enabled)
+![Hover Effect](https://github.com/bubble-wu/obsidian-table-column-resizer/assets/hover-effect.png)
+*Blue resize handle appears when hovering over column borders*
 
-### After - Customized Widths
-![Customized Widths](https://via.placeholder.com/600x300/f3e5f5/7b1fa2?text=Customized+Column+Widths)
+### After - Customized Widths (After Resizing)
+![Customized Widths](https://github.com/bubble-wu/obsidian-table-column-resizer/assets/after-resize.png)
+*Table columns resized to custom widths - notice how "Name" column is wider*
 
 ## 🚀 Installation
 
@@ -136,6 +142,12 @@ If you find this plugin helpful, please consider:
 - 🐛 Reporting bugs in Issues
 - 💡 Suggesting new features
 - 📝 Contributing code improvements
+
+**Contact**: For questions or feedback, email: **wzihua@hotmail.com**
+
+## 🙏 Author
+
+Created by **bubble** - Making Obsidian tables more user-friendly!
 
 ---
 
