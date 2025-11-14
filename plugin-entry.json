@@ -1,0 +1,9 @@
+{
+  "id": "table-column-resizer",
+  "name": "Table Column Resizer",
+  "author": "bubble",
+  "description": "Resize table columns by dragging in preview mode with persistent settings and visual feedback",
+  "repo": "bubble-wu/obsidian-table-column-resizer",
+  "branch": "main",
+  "version": "1.0.0"
+}
